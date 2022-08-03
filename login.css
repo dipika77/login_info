@@ -1,0 +1,75 @@
+body{
+    width: 100%;
+}
+.form{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    border-radius: 10px;
+    top: 150px;
+    left: 500px;
+    padding: 25px;
+}
+.form h2{
+    width: 200px;
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 10px;
+}
+.form input{
+    width: 250px;
+    height: 30px;
+    background: transparent;
+    border-bottom: 1px solid blue;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+
+}
+.btn{
+    width: 250px;
+    height: 40px;
+    background-color: aliceblue;
+    color: blue;
+    border: none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn a{
+    text-decoration: none;
+    color: #000;
+    font-weight:bold;
+}
+.form .link{
+ font-size: 15px;
+ padding-top: 15px;
+ text-align: center;
+ color: blue;
+}
+.li{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #000;
+}
+/* .icon a{
+    text-decoration: none;
+    color: #fff;
+}
+.icon ion-icon{
+color: #fff;
+font-size: 30px;
+padding-left: 14px;
+padding-top: 5px;
+
+} */
